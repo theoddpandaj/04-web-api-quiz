@@ -1,0 +1,85 @@
+body {
+    background-color:white;
+    background-image: url(../assest/1.jpg)
+    
+    }
+    
+    #row1 {
+        padding: 10px;
+    }
+    
+    #row2 {
+        justify-content: center;
+    }
+    
+    .col-3 {
+        color:black;
+        text-align: center;
+    }
+    
+    #highScore {
+        color: red;
+    }
+    
+    .display-3 {
+        text-align: center;
+        margin-top: -50px;
+    }
+    
+    .lead {
+        text-align: center;
+    }
+    
+    .jumbotron {
+        background-color:rgb(165, 165, 165);
+        height: 270px;
+    }
+    
+    .buttonRow {
+        justify-content: center;
+        padding: 5px;
+    }
+    
+    .card {
+        background-color:white;
+    }
+    
+    .col-4 {
+        text-align: -webkit-center;
+    }
+    
+    #questionsCard {
+        display: none;
+    }
+    
+    #correctIncorrect {
+        font-size: xx-large;
+    }
+    
+    #buttonInitials {
+        display: none;
+    }
+    
+    #inlineFormInput {
+        display: none;
+        width: 30%;
+    }
+    
+   
+    
+    #highRow {
+        padding: 10px;
+    }
+    
+    #header {
+        font-size: 4.5rem;
+        font-weight: 300;
+        line-height: 1.2;
+    }
+    
+    #imageHigh {
+        justify-content: center;
+        padding: 30px;
+    }
+    
+   
