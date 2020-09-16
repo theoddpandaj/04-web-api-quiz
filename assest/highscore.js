@@ -9,7 +9,7 @@ function printHighScore() {
     for (var i = 0; i < highscores.length; i++) {
       console.log(highscores[i].secondsLeft);
       var home = document.createElement("li"); 
-      var words = document.createTextNode(highscores[i].initials + ": " + highscores[i].secondsLeft)  ; //content of p
+      var words = document.createTextNode(highscores[i].name + ": " + highscores[i].secondsLeft)  ; 
       home.appendChild(words);
       highScorePrint.appendChild(home);
     }
